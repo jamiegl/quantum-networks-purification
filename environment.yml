@@ -1,0 +1,10 @@
+name: qutip-env
+channels:
+  -  conda-forge
+dependencies:
+  -  python=3.85
+  -  numpy=1.19.1
+  -  matplotlib=3.3.1
+  -  qutip=4.5.*
+  -  cython=0.29.*
+  -  scipy=1.5.*  
